@@ -1,7 +1,6 @@
 # 💫 Sobre Mim:
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focado no meu estudo de skills e tecnologias.
 
-
 ## 🌐 Contato:
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me/5528999763920)
