@@ -16,7 +16,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 
 ### 📊 GitHub Stats:
 <div  align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=raphaeleliass&theme=dark&mode=weekly" />
+<img width=47% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=raphaeleliass&theme=dark&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeleliass&theme=dark&layout=compact" />
  </div>
  
