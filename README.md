@@ -18,5 +18,3 @@ Estudante do curso superior de Análise e Desenvolvimento de Sistemas, apaixonad
 <div style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeleliass&theme=dark&layout=compact" />
  </div>
- 
----
