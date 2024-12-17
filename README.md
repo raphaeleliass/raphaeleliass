@@ -1,8 +1,17 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
+
+  
+
+
+###
+
+###
 
 ###
 
 <p align="left">My name is Raphael Elias and I'm a System Analysis and Development student from Espírito Santo, Brazil.</p>
+
 
 ###
 
@@ -44,3 +53,18 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://linkedin.com/in/raphaeleliass" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5528999763920" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://instagram.com/raphaeleliass" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/faeleliass" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
