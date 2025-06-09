@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full-stack developer — Espírito Santo, Brasil.</p>
+<p align="left">Full-stack developer - Espírito Santo, Brasil.</p>
 
 ###
 
