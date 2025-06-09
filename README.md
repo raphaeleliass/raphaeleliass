@@ -1,12 +1,22 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Raphael Elias</h1>
 
-<p align="left">My name is Raphael Elias and I'm a System Analysis and Development student from Espírito Santo, Brazil.</p>
+###
 
-<h2 align="left">About me</h2>
+<p align="left">Full-stack developer — Espírito Santo, Brasil.</p>
 
-<p align="left">✨ Creating bugs since 2021<br>📚 Currently learning React, JavaScript, and TypeScript<br>🎯 Goals: To become a proficient web developer by mastering best practices and essential skills<br>🎲 Fun fact: I can talk for hours about technology, music, programming, philosophy, and life in general.</p>
+###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">Desenvolvedor full-stack, com foco em React, Node.js e TypeScript. Atualmente me aprofundo em Next.js, Express, Prisma e PostgreSQL. Trabalho com práticas escaláveis, código limpo e performance.
+
+###
+
+<h2 align="left">Minhas stacks</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -17,36 +27,34 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-<h2 align="left">My GitHub Stats</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaeleliass&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaeleliass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
 
 ###
 
-<h2 align="left">My Social Media</h2>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaeleliass&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=react&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaeleliass&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="left">
-  <a href="https://linkedin.com/in/raphaeleliass" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/29006245/raphael-elias" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://instagram.com/raphaeleliass" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
+  <a href="https://linkedin.com/in/raphaeleliass"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://facebook.com/raphaeleliasss"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <a href="https://instagram.com/raphaeleliass"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="https://stackoverflow.com/users/29006245/raphael-elias"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a>
+  <a href="mailto:raphaeleliass@outlook.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  /></a>
 </div>
 
 ###
