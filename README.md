@@ -1,16 +1,10 @@
-<h1 align="left">Raphael Elias</h1>
+<h1 align="left">💻 Raphael Elias</h1>
 
 ###
 
-<p align="left">Full-stack developer - Espírito Santo, Brasil.</p>
+<strong align="left">Desenvolvedor Full-Stack</strong>
 
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">Desenvolvedor full-stack, com foco em React, Node.js e TypeScript. Atualmente me aprofundo em Next.js, Express, Prisma e PostgreSQL. Trabalho com práticas escaláveis, código limpo e performance.
+<p align="left">Desenvolvedor Full Stack com foco em JavaScript/TypeScript, especializado em React, Next.js, Node.js, Express, Prisma e PostgreSQL. Estou sempre em evolução, estudando arquitetura escalável, clean code, performance e boas práticas como SOLID e princípios de design. Escrevo código pensando em produto, usabilidade e manutenção a longo prazo. Apaixonado por tecnologia e por transformar ideias em soluções robustas e eficientes.</p>
 
 ###
 
