@@ -1,4 +1,4 @@
-<h1 align="left">💻 Raphael Elias</h1>
+<h1 align="left">Raphael Elias</h1>
 
 ###
 
