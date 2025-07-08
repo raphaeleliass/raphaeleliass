@@ -4,7 +4,7 @@
 
 <strong align="left">Desenvolvedor Full-Stack</strong>
 
-<p align="left">Desenvolvedor Full Stack com foco em JavaScript/TypeScript, especializado em React, Next.js, Node.js, Express, Prisma e PostgreSQL. Estou sempre em evolução, estudando arquitetura escalável, clean code, performance e boas práticas como SOLID e princípios de design. Escrevo código pensando em produto, usabilidade e manutenção a longo prazo.</p>
+<p align="left">Focado em JavaScript/TypeScript, especializado em React, Next.js, Node.js, Express, Prisma e PostgreSQL. Estou sempre em evolução, estudando arquitetura escalável, clean code, performance e boas práticas como SOLID e princípios de design. Escrevo código pensando em produto, usabilidade e manutenção a longo prazo.</p>
 
 ###
 
