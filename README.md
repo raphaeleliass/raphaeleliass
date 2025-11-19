@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Raphael e eu sou um desenvolvedor full stack. Atualemte, meu foco total é o desenvolvimento web, logo, domino as principais tecnologias atuais do mercado de desenvolvimento web e foco em desenvolver aplicações performáticas, escaláveis e seguindo boas práticas.</p>
+<p align="left">Meu nome é Raphael, eu sou um desenvolvedor full stack. Atualmente, meu foco total é o desenvolvimento web, logo, domino as tecnologias mais atuais do mercado quando o assunto é desenvolvimento web. Tenho como foco desenvolver aplicações performáticas, escaláveis e seguindo boas práticas.</p>
 
 ###
 
