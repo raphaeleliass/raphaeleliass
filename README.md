@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Atualmente cursando o último periodo de Análise e Desenvolvimento de Sistemas e obstinado em colocar em prática todo o meu conhecimento conquistado até aqui.</p>
+<p align="left">🎯 Atualmente formado no curso superior de Análise e Desenvolvimento de Sistemas e obstinado em colocar em prática todo o meu conhecimento conquistado até aqui.</p>
 
 ###
 
